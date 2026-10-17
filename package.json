@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@flue/runtime": "^0.8.1",
-    "valibot": "^1.4.1"
+    "valibot": "^1.4.2"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.4.0",
